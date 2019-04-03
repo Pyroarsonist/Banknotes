@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Banknotes</string>
+    <string name="enterValueWarning">Please, enter required positions</string>
+    <string name="_500_cu">500 cu</string>
+    <string name="_200_cu">200 cu</string>
+    <string name="_100_cu">100 cu</string>
+    <string name="_50_cu">50 cu</string>
+    <string name="_20_cu">20 cu</string>
+    <string name="_10_cu">10 cu</string>
+    <string name="_5_cu">5 cu</string>
+    <string name="_2_cu">2 cu</string>
+    <string name="_1_cu">1 cu</string>
+    <string name="defaultValue">0</string>
+</resources>
